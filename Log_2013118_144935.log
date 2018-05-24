@@ -1,0 +1,12 @@
+Time:2013-11-8 14:49:45
+CommunicateErr:0
+ErrPackageNum:0
+TimeSkipNum:0
+UpdateDataTimer is Active.
+Memory info:
+procs -----------memory---------- ---swap-- -----io---- --system-- -----cpu------
+ r  b   swpd   free   buff  cache   si   so    bi    bo   in   cs us sy id wa st
+ 6  1 311424 145684   9472 131908    5    7    16    25   12   46  9 12 78  1  0
+
+
+

@@ -1,0 +1,1704 @@
+Time:2011-12-16 17:22:29
+CommunicateErr:0
+ErrPackageNum:0
+TimeSkipNum:0
+UpdateDataTimer is Active.
+Memory info:
+procs -----------memory---------- ---swap-- -----io---- --system-- -----cpu------
+ r  b   swpd   free   buff  cache   si   so    bi    bo   in   cs us sy id wa st
+ 4  0 200864  33144   5604 218308    3    4   121    94   78  220 15 14 64  7  0
+
+
+
+Time:2011-12-16 17:22:39
+CommunicateErr:0
+ErrPackageNum:0
+TimeSkipNum:0
+UpdateDataTimer is Active.
+Memory info:
+procs -----------memory---------- ---swap-- -----io---- --system-- -----cpu------
+ r  b   swpd   free   buff  cache   si   so    bi    bo   in   cs us sy id wa st
+ 8  1 200844  33144   5612 218328    3    4   121    94   78  220 15 14 64  7  0
+
+
+
+Time:2011-12-16 17:22:49
+CommunicateErr:0
+ErrPackageNum:0
+TimeSkipNum:0
+UpdateDataTimer is Active.
+Memory info:
+procs -----------memory---------- ---swap-- -----io---- --system-- -----cpu------
+ r  b   swpd   free   buff  cache   si   so    bi    bo   in   cs us sy id wa st
+ 5  0 200844  33136   5636 218340    3    4   121    94   78  220 15 14 64  7  0
+
+
+
+Time:2011-12-16 17:22:59
+CommunicateErr:0
+ErrPackageNum:0
+TimeSkipNum:0
+UpdateDataTimer is Active.
+Memory info:
+procs -----------memory---------- ---swap-- -----io---- --system-- -----cpu------
+ r  b   swpd   free   buff  cache   si   so    bi    bo   in   cs us sy id wa st
+ 3  0 200844  33284   5652 218340    3    4   121    94   78  220 15 14 64  7  0
+
+
+
+Time:2011-12-16 17:23:09
+CommunicateErr:0
+ErrPackageNum:0
+TimeSkipNum:0
+UpdateDataTimer is Active.
+Memory info:
+procs -----------memory---------- ---swap-- -----io---- --system-- -----cpu------
+ r  b   swpd   free   buff  cache   si   so    bi    bo   in   cs us sy id wa st
+ 2  0 200844  27540   5672 218348    3    4   121    94   78  220 15 14 64  7  0
+
+
+
+Time:2011-12-16 17:23:19
+CommunicateErr:0
+ErrPackageNum:0
+TimeSkipNum:0
+UpdateDataTimer is Active.
+Memory info:
+procs -----------memory---------- ---swap-- -----io---- --system-- -----cpu------
+ r  b   swpd   free   buff  cache   si   so    bi    bo   in   cs us sy id wa st
+ 6  0 200844  27648   5688 218352    3    4   121    94   78  220 15 14 64  7  0
+
+
+
+Time:2011-12-16 17:23:29
+CommunicateErr:0
+ErrPackageNum:0
+TimeSkipNum:0
+UpdateDataTimer is Active.
+Memory info:
+procs -----------memory---------- ---swap-- -----io---- --system-- -----cpu------
+ r  b   swpd   free   buff  cache   si   so    bi    bo   in   cs us sy id wa st
+ 1  0 200844  27548   5696 218360    3    4   121    94   78  220 15 14 64  7  0
+
+
+
+Time:2011-12-16 17:23:39
+CommunicateErr:0
+ErrPackageNum:0
+TimeSkipNum:0
+UpdateDataTimer is Active.
+Memory info:
+procs -----------memory---------- ---swap-- -----io---- --system-- -----cpu------
+ r  b   swpd   free   buff  cache   si   so    bi    bo   in   cs us sy id wa st
+ 2  1 200844  27188   5716 218340    3    4   121    94   78  220 15 14 64  7  0
+
+
+
+Time:2011-12-16 17:23:49
+CommunicateErr:0
+ErrPackageNum:0
+TimeSkipNum:0
+UpdateDataTimer is Active.
+Memory info:
+procs -----------memory---------- ---swap-- -----io---- --system-- -----cpu------
+ r  b   swpd   free   buff  cache   si   so    bi    bo   in   cs us sy id wa st
+ 1  0 200816  27288   5744 218360    3    4   121    94   78  220 15 14 64  7  0
+
+
+
+Time:2011-12-16 17:23:59
+CommunicateErr:0
+ErrPackageNum:0
+TimeSkipNum:0
+UpdateDataTimer is Active.
+Memory info:
+procs -----------memory---------- ---swap-- -----io---- --system-- -----cpu------
+ r  b   swpd   free   buff  cache   si   so    bi    bo   in   cs us sy id wa st
+ 0  0 200816  27304   5760 218360    3    4   121    94   78  220 15 14 64  7  0
+
+
+
+Time:2011-12-16 17:24:09
+CommunicateErr:0
+ErrPackageNum:0
+TimeSkipNum:0
+UpdateDataTimer is Active.
+Memory info:
+procs -----------memory---------- ---swap-- -----io---- --system-- -----cpu------
+ r  b   swpd   free   buff  cache   si   so    bi    bo   in   cs us sy id wa st
+ 6  0 200816  27180   5768 218368    3    4   121    94   78  220 15 14 64  7  0
+
+
+
+Time:2011-12-16 17:24:19
+CommunicateErr:0
+ErrPackageNum:0
+TimeSkipNum:0
+UpdateDataTimer is Active.
+Memory info:
+procs -----------memory---------- ---swap-- -----io---- --system-- -----cpu------
+ r  b   swpd   free   buff  cache   si   so    bi    bo   in   cs us sy id wa st
+ 9  0 200816  27312   5784 218368    3    4   121    94   78  220 15 14 64  7  0
+
+
+
+Time:2011-12-16 17:24:29
+CommunicateErr:0
+ErrPackageNum:0
+TimeSkipNum:0
+UpdateDataTimer is Active.
+Memory info:
+procs -----------memory---------- ---swap-- -----io---- --system-- -----cpu------
+ r  b   swpd   free   buff  cache   si   so    bi    bo   in   cs us sy id wa st
+ 7  0 200816  27188   5800 218372    3    4   121    94   78  220 15 14 64  7  0
+
+
+
+Time:2011-12-16 17:24:39
+CommunicateErr:0
+ErrPackageNum:0
+TimeSkipNum:0
+UpdateDataTimer is Active.
+Memory info:
+procs -----------memory---------- ---swap-- -----io---- --system-- -----cpu------
+ r  b   swpd   free   buff  cache   si   so    bi    bo   in   cs us sy id wa st
+ 6  0 200816  27180   5816 218372    3    4   121    94   78  220 15 14 64  7  0
+
+
+
+Time:2011-12-16 17:24:49
+CommunicateErr:0
+ErrPackageNum:0
+TimeSkipNum:0
+UpdateDataTimer is Active.
+Memory info:
+procs -----------memory---------- ---swap-- -----io---- --system-- -----cpu------
+ r  b   swpd   free   buff  cache   si   so    bi    bo   in   cs us sy id wa st
+10  0 200816  27180   5824 218372    3    4   121    94   78  220 15 14 64  7  0
+
+
+
+Time:2011-12-16 17:24:59
+CommunicateErr:0
+ErrPackageNum:0
+TimeSkipNum:0
+UpdateDataTimer is Active.
+Memory info:
+procs -----------memory---------- ---swap-- -----io---- --system-- -----cpu------
+ r  b   swpd   free   buff  cache   si   so    bi    bo   in   cs us sy id wa st
+ 2  0 200816  27180   5840 218372    3    4   121    94   78  220 15 14 64  7  0
+
+
+
+Time:2011-12-16 17:25:09
+CommunicateErr:0
+ErrPackageNum:0
+TimeSkipNum:0
+UpdateDataTimer is Active.
+Memory info:
+procs -----------memory---------- ---swap-- -----io---- --system-- -----cpu------
+ r  b   swpd   free   buff  cache   si   so    bi    bo   in   cs us sy id wa st
+ 7  0 200816  27056   5856 218376    3    4   121    94   78  220 15 14 64  7  0
+
+
+
+Time:2011-12-16 17:25:19
+CommunicateErr:0
+ErrPackageNum:0
+TimeSkipNum:0
+UpdateDataTimer is Active.
+Memory info:
+procs -----------memory---------- ---swap-- -----io---- --system-- -----cpu------
+ r  b   swpd   free   buff  cache   si   so    bi    bo   in   cs us sy id wa st
+ 6  0 200816  27188   5864 218376    3    4   121    94   78  221 15 14 64  7  0
+
+
+
+Time:2011-12-16 17:25:29
+CommunicateErr:0
+ErrPackageNum:0
+TimeSkipNum:0
+UpdateDataTimer is Active.
+Memory info:
+procs -----------memory---------- ---swap-- -----io---- --system-- -----cpu------
+ r  b   swpd   free   buff  cache   si   so    bi    bo   in   cs us sy id wa st
+ 6  0 200816  27064   5880 218376    3    4   121    94   78  221 15 14 64  7  0
+
+
+
+Time:2011-12-16 17:25:39
+CommunicateErr:0
+ErrPackageNum:0
+TimeSkipNum:0
+UpdateDataTimer is Active.
+Memory info:
+procs -----------memory---------- ---swap-- -----io---- --system-- -----cpu------
+ r  b   swpd   free   buff  cache   si   so    bi    bo   in   cs us sy id wa st
+ 2  0 200816  27616   5896 218396    3    4   121    94   78  221 15 14 64  7  0
+
+
+
+Time:2011-12-16 17:25:49
+CommunicateErr:0
+ErrPackageNum:0
+TimeSkipNum:0
+UpdateDataTimer is Active.
+Memory info:
+procs -----------memory---------- ---swap-- -----io---- --system-- -----cpu------
+ r  b   swpd   free   buff  cache   si   so    bi    bo   in   cs us sy id wa st
+ 1  0 200816  26856   5904 218404    3    4   121    94   78  221 15 14 64  7  0
+
+
+
+Time:2011-12-16 17:25:59
+CommunicateErr:0
+ErrPackageNum:0
+TimeSkipNum:0
+UpdateDataTimer is Active.
+Memory info:
+procs -----------memory---------- ---swap-- -----io---- --system-- -----cpu------
+ r  b   swpd   free   buff  cache   si   so    bi    bo   in   cs us sy id wa st
+ 7  0 200816  26588   5920 218404    3    4   121    94   78  221 15 14 64  7  0
+
+
+
+Time:2011-12-16 17:26:09
+CommunicateErr:0
+ErrPackageNum:0
+TimeSkipNum:0
+UpdateDataTimer is Active.
+Memory info:
+procs -----------memory---------- ---swap-- -----io---- --system-- -----cpu------
+ r  b   swpd   free   buff  cache   si   so    bi    bo   in   cs us sy id wa st
+ 6  0 200816  26608   5936 218404    3    4   121    94   78  221 15 14 64  7  0
+
+
+
+Time:2011-12-16 17:26:19
+CommunicateErr:0
+ErrPackageNum:0
+TimeSkipNum:0
+UpdateDataTimer is Active.
+Memory info:
+procs -----------memory---------- ---swap-- -----io---- --system-- -----cpu------
+ r  b   swpd   free   buff  cache   si   so    bi    bo   in   cs us sy id wa st
+ 3  0 200816  26616   5944 218408    3    4   121    94   78  221 15 14 64  7  0
+
+
+
+Time:2011-12-16 17:26:30
+CommunicateErr:0
+ErrPackageNum:0
+TimeSkipNum:0
+UpdateDataTimer is Active.
+Memory info:
+procs -----------memory---------- ---swap-- -----io---- --system-- -----cpu------
+ r  b   swpd   free   buff  cache   si   so    bi    bo   in   cs us sy id wa st
+13  0 200808   8764   4672 210892    3    4   121    94   78  221 15 14 64  7  0
+
+
+
+Time:2011-12-16 17:26:39
+CommunicateErr:0
+ErrPackageNum:0
+TimeSkipNum:0
+UpdateDataTimer is Active.
+Memory info:
+procs -----------memory---------- ---swap-- -----io---- --system-- -----cpu------
+ r  b   swpd   free   buff  cache   si   so    bi    bo   in   cs us sy id wa st
+ 9  0 200808   8392   3824 188680    3    4   121    94   78  221 15 14 64  7  0
+
+
+
+Time:2011-12-16 17:26:49
+CommunicateErr:0
+ErrPackageNum:0
+TimeSkipNum:0
+UpdateDataTimer is Active.
+Memory info:
+procs -----------memory---------- ---swap-- -----io---- --system-- -----cpu------
+ r  b   swpd   free   buff  cache   si   so    bi    bo   in   cs us sy id wa st
+ 0  1 200808  86960   2484 155512    3    4   121    94   78  221 15 14 64  7  0
+
+
+
+Time:2011-12-16 17:26:59
+CommunicateErr:0
+ErrPackageNum:0
+TimeSkipNum:0
+UpdateDataTimer is Active.
+Memory info:
+procs -----------memory---------- ---swap-- -----io---- --system-- -----cpu------
+ r  b   swpd   free   buff  cache   si   so    bi    bo   in   cs us sy id wa st
+ 7  3 200808  47408   2608 212944    3    4   121    95   78  221 15 14 64  7  0
+
+
+
+Time:2011-12-16 17:27:09
+CommunicateErr:0
+ErrPackageNum:0
+TimeSkipNum:0
+UpdateDataTimer is Active.
+Memory info:
+procs -----------memory---------- ---swap-- -----io---- --system-- -----cpu------
+ r  b   swpd   free   buff  cache   si   so    bi    bo   in   cs us sy id wa st
+12  0 200808  36840   2672 213024    3    4   121    95   78  221 15 14 64  7  0
+
+
+
+Time:2011-12-16 17:27:19
+CommunicateErr:0
+ErrPackageNum:0
+TimeSkipNum:0
+UpdateDataTimer is Active.
+Memory info:
+procs -----------memory---------- ---swap-- -----io---- --system-- -----cpu------
+ r  b   swpd   free   buff  cache   si   so    bi    bo   in   cs us sy id wa st
+ 6  0 200784  36720   2700 213152    3    4   121    95   78  221 15 14 64  7  0
+
+
+
+Time:2011-12-16 17:27:29
+CommunicateErr:0
+ErrPackageNum:0
+TimeSkipNum:0
+UpdateDataTimer is Active.
+Memory info:
+procs -----------memory---------- ---swap-- -----io---- --system-- -----cpu------
+ r  b   swpd   free   buff  cache   si   so    bi    bo   in   cs us sy id wa st
+ 6  0 200784  29124   2716 213140    3    4   121    95   78  221 15 14 64  7  0
+
+
+
+Time:2011-12-16 17:27:39
+CommunicateErr:0
+ErrPackageNum:0
+TimeSkipNum:0
+UpdateDataTimer is Active.
+Memory info:
+procs -----------memory---------- ---swap-- -----io---- --system-- -----cpu------
+ r  b   swpd   free   buff  cache   si   so    bi    bo   in   cs us sy id wa st
+ 5  0 200784  26784   2732 213536    3    4   121    95   78  221 15 14 64  7  0
+
+
+
+Time:2011-12-16 17:27:49
+CommunicateErr:0
+ErrPackageNum:0
+TimeSkipNum:0
+UpdateDataTimer is Active.
+Memory info:
+procs -----------memory---------- ---swap-- -----io---- --system-- -----cpu------
+ r  b   swpd   free   buff  cache   si   so    bi    bo   in   cs us sy id wa st
+ 4  0 200784  27524   2748 213536    3    4   121    95   78  221 15 14 64  7  0
+
+
+
+Time:2011-12-16 17:27:59
+CommunicateErr:0
+ErrPackageNum:0
+TimeSkipNum:0
+UpdateDataTimer is Active.
+Memory info:
+procs -----------memory---------- ---swap-- -----io---- --system-- -----cpu------
+ r  b   swpd   free   buff  cache   si   so    bi    bo   in   cs us sy id wa st
+ 4  0 200784  27452   2768 213608    3    4   121    95   78  221 15 14 64  7  0
+
+
+
+Time:2011-12-16 17:28:09
+CommunicateErr:0
+ErrPackageNum:0
+TimeSkipNum:0
+UpdateDataTimer is Active.
+Memory info:
+procs -----------memory---------- ---swap-- -----io---- --system-- -----cpu------
+ r  b   swpd   free   buff  cache   si   so    bi    bo   in   cs us sy id wa st
+ 5  0 200784  27468   2788 213608    3    4   121    95   78  221 15 14 64  7  0
+
+
+
+Time:2011-12-16 17:28:19
+CommunicateErr:0
+ErrPackageNum:0
+TimeSkipNum:0
+UpdateDataTimer is Active.
+Memory info:
+procs -----------memory---------- ---swap-- -----io---- --system-- -----cpu------
+ r  b   swpd   free   buff  cache   si   so    bi    bo   in   cs us sy id wa st
+ 3  0 200784  27468   2804 213612    3    4   121    95   78  221 15 14 64  7  0
+
+
+
+Time:2011-12-16 17:28:29
+CommunicateErr:0
+ErrPackageNum:0
+TimeSkipNum:0
+UpdateDataTimer is Active.
+Memory info:
+procs -----------memory---------- ---swap-- -----io---- --system-- -----cpu------
+ r  b   swpd   free   buff  cache   si   so    bi    bo   in   cs us sy id wa st
+ 2  0 200784  27476   2812 213612    3    4   121    95   78  221 15 14 64  7  0
+
+
+
+Time:2011-12-16 17:28:39
+CommunicateErr:0
+ErrPackageNum:0
+TimeSkipNum:0
+UpdateDataTimer is Active.
+Memory info:
+procs -----------memory---------- ---swap-- -----io---- --system-- -----cpu------
+ r  b   swpd   free   buff  cache   si   so    bi    bo   in   cs us sy id wa st
+ 2  0 200784  27224   2828 213612    3    4   121    95   78  221 15 14 64  7  0
+
+
+
+Time:2011-12-16 17:28:49
+CommunicateErr:0
+ErrPackageNum:0
+TimeSkipNum:0
+UpdateDataTimer is Active.
+Memory info:
+procs -----------memory---------- ---swap-- -----io---- --system-- -----cpu------
+ r  b   swpd   free   buff  cache   si   so    bi    bo   in   cs us sy id wa st
+ 8  0 200784  27476   2844 213612    3    4   121    95   78  221 15 14 64  7  0
+
+
+
+Time:2011-12-16 17:28:59
+CommunicateErr:0
+ErrPackageNum:0
+TimeSkipNum:0
+UpdateDataTimer is Active.
+Memory info:
+procs -----------memory---------- ---swap-- -----io---- --system-- -----cpu------
+ r  b   swpd   free   buff  cache   si   so    bi    bo   in   cs us sy id wa st
+ 9  0 200784  27476   2852 213616    3    4   121    95   78  221 15 14 64  7  0
+
+
+
+Time:2011-12-16 17:29:09
+CommunicateErr:0
+ErrPackageNum:0
+TimeSkipNum:0
+UpdateDataTimer is Active.
+Memory info:
+procs -----------memory---------- ---swap-- -----io---- --system-- -----cpu------
+ r  b   swpd   free   buff  cache   si   so    bi    bo   in   cs us sy id wa st
+ 2  0 200784  27212   2872 213620    3    4   121    95   78  221 15 14 64  7  0
+
+
+
+Time:2011-12-16 17:29:19
+CommunicateErr:0
+ErrPackageNum:0
+TimeSkipNum:0
+UpdateDataTimer is Active.
+Memory info:
+procs -----------memory---------- ---swap-- -----io---- --system-- -----cpu------
+ r  b   swpd   free   buff  cache   si   so    bi    bo   in   cs us sy id wa st
+ 6  0 200784  27484   2888 213620    3    4   121    95   78  221 15 14 64  7  0
+
+
+
+Time:2011-12-16 17:29:29
+CommunicateErr:0
+ErrPackageNum:0
+TimeSkipNum:0
+UpdateDataTimer is Active.
+Memory info:
+procs -----------memory---------- ---swap-- -----io---- --system-- -----cpu------
+ r  b   swpd   free   buff  cache   si   so    bi    bo   in   cs us sy id wa st
+ 4  0 200784  27360   2904 213620    3    4   121    95   78  221 15 14 64  7  0
+
+
+
+Time:2011-12-16 17:29:39
+CommunicateErr:0
+ErrPackageNum:0
+TimeSkipNum:0
+UpdateDataTimer is Active.
+Memory info:
+procs -----------memory---------- ---swap-- -----io---- --system-- -----cpu------
+ r  b   swpd   free   buff  cache   si   so    bi    bo   in   cs us sy id wa st
+10  0 200784  26624   2912 213620    3    4   121    95   78  221 15 14 64  7  0
+
+
+
+Time:2011-12-16 17:29:49
+CommunicateErr:0
+ErrPackageNum:0
+TimeSkipNum:0
+UpdateDataTimer is Active.
+Memory info:
+procs -----------memory---------- ---swap-- -----io---- --system-- -----cpu------
+ r  b   swpd   free   buff  cache   si   so    bi    bo   in   cs us sy id wa st
+ 5  0 200784  26608   2932 213620    3    4   121    95   78  221 15 14 64  7  0
+
+
+
+Time:2011-12-16 17:29:59
+CommunicateErr:0
+ErrPackageNum:0
+TimeSkipNum:0
+UpdateDataTimer is Active.
+Memory info:
+procs -----------memory---------- ---swap-- -----io---- --system-- -----cpu------
+ r  b   swpd   free   buff  cache   si   so    bi    bo   in   cs us sy id wa st
+ 7  0 200784  26608   2948 213620    3    4   121    94   78  221 15 14 64  7  0
+
+
+
+Time:2011-12-16 17:30:09
+CommunicateErr:0
+ErrPackageNum:0
+TimeSkipNum:0
+UpdateDataTimer is Active.
+Memory info:
+procs -----------memory---------- ---swap-- -----io---- --system-- -----cpu------
+ r  b   swpd   free   buff  cache   si   so    bi    bo   in   cs us sy id wa st
+ 5  0 200784  26624   2956 213624    3    4   121    94   78  221 15 14 64  7  0
+
+
+
+Time:2011-12-16 17:30:19
+CommunicateErr:0
+ErrPackageNum:0
+TimeSkipNum:0
+UpdateDataTimer is Active.
+Memory info:
+procs -----------memory---------- ---swap-- -----io---- --system-- -----cpu------
+ r  b   swpd   free   buff  cache   si   so    bi    bo   in   cs us sy id wa st
+ 6  0 200784  25140   2972 213624    3    4   121    94   78  221 15 14 64  7  0
+
+
+
+Time:2011-12-16 17:30:29
+CommunicateErr:0
+ErrPackageNum:0
+TimeSkipNum:0
+UpdateDataTimer is Active.
+Memory info:
+procs -----------memory---------- ---swap-- -----io---- --system-- -----cpu------
+ r  b   swpd   free   buff  cache   si   so    bi    bo   in   cs us sy id wa st
+ 5  0 200784  26592   2988 213624    3    4   121    94   78  222 15 14 64  7  0
+
+
+
+Time:2011-12-16 17:30:39
+CommunicateErr:0
+ErrPackageNum:0
+TimeSkipNum:0
+UpdateDataTimer is Active.
+Memory info:
+procs -----------memory---------- ---swap-- -----io---- --system-- -----cpu------
+ r  b   swpd   free   buff  cache   si   so    bi    bo   in   cs us sy id wa st
+13  0 200784  26972   2996 213624    3    4   121    94   78  222 15 14 64  7  0
+
+
+
+Time:2011-12-16 17:30:49
+CommunicateErr:0
+ErrPackageNum:0
+TimeSkipNum:0
+UpdateDataTimer is Active.
+Memory info:
+procs -----------memory---------- ---swap-- -----io---- --system-- -----cpu------
+ r  b   swpd   free   buff  cache   si   so    bi    bo   in   cs us sy id wa st
+ 4  0 200784  25616   3016 213624    3    4   121    94   78  222 15 14 64  7  0
+
+
+
+Time:2011-12-16 17:30:59
+CommunicateErr:0
+ErrPackageNum:0
+TimeSkipNum:0
+UpdateDataTimer is Active.
+Memory info:
+procs -----------memory---------- ---swap-- -----io---- --system-- -----cpu------
+ r  b   swpd   free   buff  cache   si   so    bi    bo   in   cs us sy id wa st
+ 7  0 200784  25740   3032 213632    3    4   121    94   78  222 15 14 64  7  0
+
+
+
+Time:2011-12-16 17:31:09
+CommunicateErr:0
+ErrPackageNum:0
+TimeSkipNum:0
+UpdateDataTimer is Active.
+Memory info:
+procs -----------memory---------- ---swap-- -----io---- --system-- -----cpu------
+ r  b   swpd   free   buff  cache   si   so    bi    bo   in   cs us sy id wa st
+ 6  0 200784  22020   3040 213632    3    4   121    94   78  222 15 14 64  7  0
+
+
+
+Time:2011-12-16 17:31:19
+CommunicateErr:0
+ErrPackageNum:0
+TimeSkipNum:0
+UpdateDataTimer is Active.
+Memory info:
+procs -----------memory---------- ---swap-- -----io---- --system-- -----cpu------
+ r  b   swpd   free   buff  cache   si   so    bi    bo   in   cs us sy id wa st
+ 6  0 200784  22020   3056 213632    3    4   121    94   78  222 15 14 64  7  0
+
+
+
+Time:2011-12-16 17:31:29
+CommunicateErr:0
+ErrPackageNum:0
+TimeSkipNum:0
+UpdateDataTimer is Active.
+Memory info:
+procs -----------memory---------- ---swap-- -----io---- --system-- -----cpu------
+ r  b   swpd   free   buff  cache   si   so    bi    bo   in   cs us sy id wa st
+ 5  0 200784  21880   3072 213632    3    4   121    94   78  222 15 14 64  7  0
+
+
+
+Time:2011-12-16 17:31:39
+CommunicateErr:0
+ErrPackageNum:0
+TimeSkipNum:0
+UpdateDataTimer is Active.
+Memory info:
+procs -----------memory---------- ---swap-- -----io---- --system-- -----cpu------
+ r  b   swpd   free   buff  cache   si   so    bi    bo   in   cs us sy id wa st
+ 8  0 200784  21896   3080 213632    3    4   121    94   78  222 15 14 64  7  0
+
+
+
+Time:2011-12-16 17:31:49
+CommunicateErr:0
+ErrPackageNum:0
+TimeSkipNum:0
+UpdateDataTimer is Active.
+Memory info:
+procs -----------memory---------- ---swap-- -----io---- --system-- -----cpu------
+ r  b   swpd   free   buff  cache   si   so    bi    bo   in   cs us sy id wa st
+ 9  0 200784  21896   3096 213632    3    4   121    94   78  222 15 14 64  7  0
+
+
+
+Time:2011-12-16 17:31:59
+CommunicateErr:0
+ErrPackageNum:0
+TimeSkipNum:0
+UpdateDataTimer is Active.
+Memory info:
+procs -----------memory---------- ---swap-- -----io---- --system-- -----cpu------
+ r  b   swpd   free   buff  cache   si   so    bi    bo   in   cs us sy id wa st
+ 2  0 200784  21644   3112 213632    3    4   121    94   78  222 15 14 64  7  0
+
+
+
+Time:2011-12-16 17:32:09
+CommunicateErr:0
+ErrPackageNum:0
+TimeSkipNum:0
+UpdateDataTimer is Active.
+Memory info:
+procs -----------memory---------- ---swap-- -----io---- --system-- -----cpu------
+ r  b   swpd   free   buff  cache   si   so    bi    bo   in   cs us sy id wa st
+ 9  0 200784  21896   3120 213636    3    4   121    94   78  222 15 14 64  7  0
+
+
+
+Time:2011-12-16 17:32:19
+CommunicateErr:0
+ErrPackageNum:0
+TimeSkipNum:0
+UpdateDataTimer is Active.
+Memory info:
+procs -----------memory---------- ---swap-- -----io---- --system-- -----cpu------
+ r  b   swpd   free   buff  cache   si   so    bi    bo   in   cs us sy id wa st
+ 5  0 200784  21896   3136 213636    3    4   121    94   78  222 15 14 64  7  0
+
+
+
+Time:2011-12-16 17:32:29
+CommunicateErr:0
+ErrPackageNum:0
+TimeSkipNum:0
+UpdateDataTimer is Active.
+Memory info:
+procs -----------memory---------- ---swap-- -----io---- --system-- -----cpu------
+ r  b   swpd   free   buff  cache   si   so    bi    bo   in   cs us sy id wa st
+ 3  0 200784  21888   3152 213628    3    4   121    94   78  222 15 14 64  7  0
+
+
+
+Time:2011-12-16 17:32:39
+CommunicateErr:0
+ErrPackageNum:0
+TimeSkipNum:0
+UpdateDataTimer is Active.
+Memory info:
+procs -----------memory---------- ---swap-- -----io---- --system-- -----cpu------
+ r  b   swpd   free   buff  cache   si   so    bi    bo   in   cs us sy id wa st
+ 8  0 200784  21764   3160 213636    3    4   121    94   78  222 15 14 64  7  0
+
+
+
+Time:2011-12-16 17:32:49
+CommunicateErr:0
+ErrPackageNum:0
+TimeSkipNum:0
+UpdateDataTimer is Active.
+Memory info:
+procs -----------memory---------- ---swap-- -----io---- --system-- -----cpu------
+ r  b   swpd   free   buff  cache   si   so    bi    bo   in   cs us sy id wa st
+ 2  0 200784  21644   3176 213640    3    4   121    94   78  222 15 14 64  7  0
+
+
+
+Time:2011-12-16 17:32:59
+CommunicateErr:0
+ErrPackageNum:0
+TimeSkipNum:0
+UpdateDataTimer is Active.
+Memory info:
+procs -----------memory---------- ---swap-- -----io---- --system-- -----cpu------
+ r  b   swpd   free   buff  cache   si   so    bi    bo   in   cs us sy id wa st
+ 4  0 200784  21128   3192 213644    3    4   121    94   78  222 15 14 64  7  0
+
+
+
+Time:2011-12-16 17:33:09
+CommunicateErr:0
+ErrPackageNum:0
+TimeSkipNum:0
+UpdateDataTimer is Active.
+Memory info:
+procs -----------memory---------- ---swap-- -----io---- --system-- -----cpu------
+ r  b   swpd   free   buff  cache   si   so    bi    bo   in   cs us sy id wa st
+ 4  0 200784  21772   3200 213644    3    4   121    94   78  222 15 14 64  7  0
+
+
+
+Time:2011-12-16 17:33:19
+CommunicateErr:0
+ErrPackageNum:0
+TimeSkipNum:0
+UpdateDataTimer is Active.
+Memory info:
+procs -----------memory---------- ---swap-- -----io---- --system-- -----cpu------
+ r  b   swpd   free   buff  cache   si   so    bi    bo   in   cs us sy id wa st
+ 6  0 200784  21772   3216 213644    3    4   121    94   78  222 15 14 64  7  0
+
+
+
+Time:2011-12-16 17:33:29
+CommunicateErr:0
+ErrPackageNum:0
+TimeSkipNum:0
+UpdateDataTimer is Active.
+Memory info:
+procs -----------memory---------- ---swap-- -----io---- --system-- -----cpu------
+ r  b   swpd   free   buff  cache   si   so    bi    bo   in   cs us sy id wa st
+ 7  0 200784  21772   3232 213644    3    4   121    94   78  222 15 14 64  7  0
+
+
+
+Time:2011-12-16 17:33:39
+CommunicateErr:0
+ErrPackageNum:0
+TimeSkipNum:0
+UpdateDataTimer is Active.
+Memory info:
+procs -----------memory---------- ---swap-- -----io---- --system-- -----cpu------
+ r  b   swpd   free   buff  cache   si   so    bi    bo   in   cs us sy id wa st
+ 4  0 200784  21772   3248 213644    3    4   121    94   78  222 15 14 64  7  0
+
+
+
+Time:2011-12-16 17:33:49
+CommunicateErr:0
+ErrPackageNum:0
+TimeSkipNum:0
+UpdateDataTimer is Active.
+Memory info:
+procs -----------memory---------- ---swap-- -----io---- --system-- -----cpu------
+ r  b   swpd   free   buff  cache   si   so    bi    bo   in   cs us sy id wa st
+ 2  0 200784  21648   3268 213644    3    4   121    94   78  222 15 14 64  7  0
+
+
+
+Time:2011-12-16 17:33:59
+CommunicateErr:0
+ErrPackageNum:0
+TimeSkipNum:0
+UpdateDataTimer is Active.
+Memory info:
+procs -----------memory---------- ---swap-- -----io---- --system-- -----cpu------
+ r  b   swpd   free   buff  cache   si   so    bi    bo   in   cs us sy id wa st
+ 7  0 200784  21788   3276 213648    3    4   121    94   78  222 15 14 64  7  0
+
+
+
+Time:2011-12-16 17:34:09
+CommunicateErr:0
+ErrPackageNum:0
+TimeSkipNum:0
+UpdateDataTimer is Active.
+Memory info:
+procs -----------memory---------- ---swap-- -----io---- --system-- -----cpu------
+ r  b   swpd   free   buff  cache   si   so    bi    bo   in   cs us sy id wa st
+ 6  0 200784  21664   3292 213648    3    4   121    94   78  222 15 14 64  7  0
+
+
+
+Time:2011-12-16 17:34:19
+CommunicateErr:0
+ErrPackageNum:0
+TimeSkipNum:0
+UpdateDataTimer is Active.
+Memory info:
+procs -----------memory---------- ---swap-- -----io---- --system-- -----cpu------
+ r  b   swpd   free   buff  cache   si   so    bi    bo   in   cs us sy id wa st
+ 3  0 200784  21664   3308 213648    3    4   121    94   78  222 15 14 64  7  0
+
+
+
+Time:2011-12-16 17:34:29
+CommunicateErr:0
+ErrPackageNum:0
+TimeSkipNum:0
+UpdateDataTimer is Active.
+Memory info:
+procs -----------memory---------- ---swap-- -----io---- --system-- -----cpu------
+ r  b   swpd   free   buff  cache   si   so    bi    bo   in   cs us sy id wa st
+ 4  0 200784  21664   3324 213648    3    4   121    94   78  222 15 14 64  7  0
+
+
+
+Time:2011-12-16 17:34:39
+CommunicateErr:0
+ErrPackageNum:0
+TimeSkipNum:0
+UpdateDataTimer is Active.
+Memory info:
+procs -----------memory---------- ---swap-- -----io---- --system-- -----cpu------
+ r  b   swpd   free   buff  cache   si   so    bi    bo   in   cs us sy id wa st
+ 5  0 200784  21664   3336 213652    3    4   121    94   78  222 15 14 64  7  0
+
+
+
+Time:2011-12-16 17:34:49
+CommunicateErr:0
+ErrPackageNum:0
+TimeSkipNum:0
+UpdateDataTimer is Active.
+Memory info:
+procs -----------memory---------- ---swap-- -----io---- --system-- -----cpu------
+ r  b   swpd   free   buff  cache   si   so    bi    bo   in   cs us sy id wa st
+11  0 200784  21664   3352 213656    3    4   121    94   78  222 15 14 64  7  0
+
+
+
+Time:2011-12-16 17:34:59
+CommunicateErr:0
+ErrPackageNum:0
+TimeSkipNum:0
+UpdateDataTimer is Active.
+Memory info:
+procs -----------memory---------- ---swap-- -----io---- --system-- -----cpu------
+ r  b   swpd   free   buff  cache   si   so    bi    bo   in   cs us sy id wa st
+11  0 200784  21664   3368 213656    3    4   121    94   78  222 15 14 64  7  0
+
+
+
+Time:2011-12-16 17:35:09
+CommunicateErr:0
+ErrPackageNum:0
+TimeSkipNum:0
+UpdateDataTimer is Active.
+Memory info:
+procs -----------memory---------- ---swap-- -----io---- --system-- -----cpu------
+ r  b   swpd   free   buff  cache   si   so    bi    bo   in   cs us sy id wa st
+ 4  0 200784  21664   3376 213656    3    4   121    94   78  222 15 14 64  7  0
+
+
+
+Time:2011-12-16 17:35:19
+CommunicateErr:0
+ErrPackageNum:0
+TimeSkipNum:0
+UpdateDataTimer is Active.
+Memory info:
+procs -----------memory---------- ---swap-- -----io---- --system-- -----cpu------
+ r  b   swpd   free   buff  cache   si   so    bi    bo   in   cs us sy id wa st
+ 3  0 200784  21664   3392 213656    3    4   121    94   78  222 15 14 64  7  0
+
+
+
+Time:2011-12-16 17:35:29
+CommunicateErr:0
+ErrPackageNum:0
+TimeSkipNum:0
+UpdateDataTimer is Active.
+Memory info:
+procs -----------memory---------- ---swap-- -----io---- --system-- -----cpu------
+ r  b   swpd   free   buff  cache   si   so    bi    bo   in   cs us sy id wa st
+ 9  0 200784  21664   3400 213656    3    4   121    94   78  222 15 14 64  7  0
+
+
+
+Time:2011-12-16 17:35:39
+CommunicateErr:0
+ErrPackageNum:0
+TimeSkipNum:0
+UpdateDataTimer is Active.
+Memory info:
+procs -----------memory---------- ---swap-- -----io---- --system-- -----cpu------
+ r  b   swpd   free   buff  cache   si   so    bi    bo   in   cs us sy id wa st
+ 9  0 200784  21532   3416 213656    3    4   121    94   78  222 15 14 64  7  0
+
+
+
+Time:2011-12-16 17:35:49
+CommunicateErr:0
+ErrPackageNum:0
+TimeSkipNum:0
+UpdateDataTimer is Active.
+Memory info:
+procs -----------memory---------- ---swap-- -----io---- --system-- -----cpu------
+ r  b   swpd   free   buff  cache   si   so    bi    bo   in   cs us sy id wa st
+ 2  0 200784  21532   3432 213660    3    4   121    94   78  222 15 14 64  7  0
+
+
+
+Time:2011-12-16 17:35:59
+CommunicateErr:0
+ErrPackageNum:0
+TimeSkipNum:0
+UpdateDataTimer is Active.
+Memory info:
+procs -----------memory---------- ---swap-- -----io---- --system-- -----cpu------
+ r  b   swpd   free   buff  cache   si   so    bi    bo   in   cs us sy id wa st
+ 8  0 200784  21532   3440 213660    3    4   121    94   78  222 15 14 64  7  0
+
+
+
+Time:2011-12-16 17:36:09
+CommunicateErr:0
+ErrPackageNum:0
+TimeSkipNum:0
+UpdateDataTimer is Active.
+Memory info:
+procs -----------memory---------- ---swap-- -----io---- --system-- -----cpu------
+ r  b   swpd   free   buff  cache   si   so    bi    bo   in   cs us sy id wa st
+ 2  0 200784  21392   3456 213660    3    4   121    94   78  222 15 14 64  7  0
+
+
+
+Time:2011-12-16 17:36:19
+CommunicateErr:0
+ErrPackageNum:0
+TimeSkipNum:0
+UpdateDataTimer is Active.
+Memory info:
+procs -----------memory---------- ---swap-- -----io---- --system-- -----cpu------
+ r  b   swpd   free   buff  cache   si   so    bi    bo   in   cs us sy id wa st
+ 5  0 200784  22912   3464 213660    3    4   121    94   78  222 15 14 64  7  0
+
+
+
+Time:2011-12-16 17:36:29
+CommunicateErr:0
+ErrPackageNum:0
+TimeSkipNum:0
+UpdateDataTimer is Active.
+Memory info:
+procs -----------memory---------- ---swap-- -----io---- --system-- -----cpu------
+ r  b   swpd   free   buff  cache   si   so    bi    bo   in   cs us sy id wa st
+ 1  0 200784  22536   3480 213660    3    4   121    94   78  222 15 14 64  7  0
+
+
+
+Time:2011-12-16 17:36:39
+CommunicateErr:0
+ErrPackageNum:0
+TimeSkipNum:0
+UpdateDataTimer is Active.
+Memory info:
+procs -----------memory---------- ---swap-- -----io---- --system-- -----cpu------
+ r  b   swpd   free   buff  cache   si   so    bi    bo   in   cs us sy id wa st
+ 5  0 200784  22780   3496 213664    3    4   121    94   78  222 15 14 64  7  0
+
+
+
+Time:2011-12-16 17:36:49
+CommunicateErr:0
+ErrPackageNum:0
+TimeSkipNum:0
+UpdateDataTimer is Active.
+Memory info:
+procs -----------memory---------- ---swap-- -----io---- --system-- -----cpu------
+ r  b   swpd   free   buff  cache   si   so    bi    bo   in   cs us sy id wa st
+ 7  0 200784  23160   3516 213668    3    4   121    94   78  222 15 14 64  7  0
+
+
+
+Time:2011-12-16 17:36:59
+CommunicateErr:0
+ErrPackageNum:0
+TimeSkipNum:0
+UpdateDataTimer is Active.
+Memory info:
+procs -----------memory---------- ---swap-- -----io---- --system-- -----cpu------
+ r  b   swpd   free   buff  cache   si   so    bi    bo   in   cs us sy id wa st
+ 7  0 200784  24400   3524 213668    3    4   121    94   78  222 15 14 64  7  0
+
+
+
+Time:2011-12-16 17:37:09
+CommunicateErr:0
+ErrPackageNum:0
+TimeSkipNum:0
+UpdateDataTimer is Active.
+Memory info:
+procs -----------memory---------- ---swap-- -----io---- --system-- -----cpu------
+ r  b   swpd   free   buff  cache   si   so    bi    bo   in   cs us sy id wa st
+ 7  0 200784  24268   3540 213668    3    4   121    94   78  222 15 14 64  7  0
+
+
+
+Time:2011-12-16 17:37:19
+CommunicateErr:0
+ErrPackageNum:0
+TimeSkipNum:0
+UpdateDataTimer is Active.
+Memory info:
+procs -----------memory---------- ---swap-- -----io---- --system-- -----cpu------
+ r  b   swpd   free   buff  cache   si   so    bi    bo   in   cs us sy id wa st
+ 3  0 200784  24236   3556 213668    3    4   121    94   78  222 15 14 64  7  0
+
+
+
+Time:2011-12-16 17:37:29
+CommunicateErr:0
+ErrPackageNum:0
+TimeSkipNum:0
+UpdateDataTimer is Active.
+Memory info:
+procs -----------memory---------- ---swap-- -----io---- --system-- -----cpu------
+ r  b   swpd   free   buff  cache   si   so    bi    bo   in   cs us sy id wa st
+ 4  0 200784  24236   3572 213668    3    4   121    94   78  222 15 14 64  7  0
+
+
+
+Time:2011-12-16 17:37:39
+CommunicateErr:0
+ErrPackageNum:0
+TimeSkipNum:0
+UpdateDataTimer is Active.
+Memory info:
+procs -----------memory---------- ---swap-- -----io---- --system-- -----cpu------
+ r  b   swpd   free   buff  cache   si   so    bi    bo   in   cs us sy id wa st
+ 6  0 200784  23904   3588 213668    3    4   121    94   78  223 15 14 64  7  0
+
+
+
+Time:2011-12-16 17:37:49
+CommunicateErr:0
+ErrPackageNum:0
+TimeSkipNum:0
+UpdateDataTimer is Active.
+Memory info:
+procs -----------memory---------- ---swap-- -----io---- --system-- -----cpu------
+ r  b   swpd   free   buff  cache   si   so    bi    bo   in   cs us sy id wa st
+ 4  0 200784  23888   3596 213672    3    4   121    94   78  223 15 14 64  7  0
+
+
+
+Time:2011-12-16 17:37:59
+CommunicateErr:0
+ErrPackageNum:0
+TimeSkipNum:0
+UpdateDataTimer is Active.
+Memory info:
+procs -----------memory---------- ---swap-- -----io---- --system-- -----cpu------
+ r  b   swpd   free   buff  cache   si   so    bi    bo   in   cs us sy id wa st
+ 5  0 200784  24012   3612 213672    3    4   121    94   78  223 15 14 64  7  0
+
+
+
+Time:2011-12-16 17:38:09
+CommunicateErr:0
+ErrPackageNum:0
+TimeSkipNum:0
+UpdateDataTimer is Active.
+Memory info:
+procs -----------memory---------- ---swap-- -----io---- --system-- -----cpu------
+ r  b   swpd   free   buff  cache   si   so    bi    bo   in   cs us sy id wa st
+ 6  0 200784  24012   3628 213672    3    4   121    94   78  223 15 14 64  7  0
+
+
+
+Time:2011-12-16 17:38:19
+CommunicateErr:0
+ErrPackageNum:0
+TimeSkipNum:0
+UpdateDataTimer is Active.
+Memory info:
+procs -----------memory---------- ---swap-- -----io---- --system-- -----cpu------
+ r  b   swpd   free   buff  cache   si   so    bi    bo   in   cs us sy id wa st
+ 5  0 200784  24028   3644 213672    3    4   121    94   78  223 15 14 64  7  0
+
+
+
+Time:2011-12-16 17:38:29
+CommunicateErr:0
+ErrPackageNum:0
+TimeSkipNum:0
+UpdateDataTimer is Active.
+Memory info:
+procs -----------memory---------- ---swap-- -----io---- --system-- -----cpu------
+ r  b   swpd   free   buff  cache   si   so    bi    bo   in   cs us sy id wa st
+ 6  0 200784  23904   3660 213668    3    4   121    94   78  223 15 14 64  7  0
+
+
+
+Time:2011-12-16 17:38:39
+CommunicateErr:0
+ErrPackageNum:0
+TimeSkipNum:0
+UpdateDataTimer is Active.
+Memory info:
+procs -----------memory---------- ---swap-- -----io---- --system-- -----cpu------
+ r  b   swpd   free   buff  cache   si   so    bi    bo   in   cs us sy id wa st
+ 6  0 200784  23520   3668 213780    3    4   121    94   78  223 15 14 64  7  0
+
+
+
+Time:2011-12-16 17:38:49
+CommunicateErr:0
+ErrPackageNum:0
+TimeSkipNum:0
+UpdateDataTimer is Active.
+Memory info:
+procs -----------memory---------- ---swap-- -----io---- --system-- -----cpu------
+ r  b   swpd   free   buff  cache   si   so    bi    bo   in   cs us sy id wa st
+ 6  0 200784  22032   3684 213780    3    4   121    94   78  223 15 14 64  7  0
+
+
+
+Time:2011-12-16 17:38:59
+CommunicateErr:0
+ErrPackageNum:0
+TimeSkipNum:0
+UpdateDataTimer is Active.
+Memory info:
+procs -----------memory---------- ---swap-- -----io---- --system-- -----cpu------
+ r  b   swpd   free   buff  cache   si   so    bi    bo   in   cs us sy id wa st
+ 5  0 200784  22032   3692 213780    3    4   121    94   78  223 15 14 64  7  0
+
+
+
+Time:2011-12-16 17:39:09
+CommunicateErr:0
+ErrPackageNum:0
+TimeSkipNum:0
+UpdateDataTimer is Active.
+Memory info:
+procs -----------memory---------- ---swap-- -----io---- --system-- -----cpu------
+ r  b   swpd   free   buff  cache   si   so    bi    bo   in   cs us sy id wa st
+ 2  0 200784  21768   3708 213780    3    4   121    94   78  223 15 14 64  7  0
+
+
+
+Time:2011-12-16 17:39:19
+CommunicateErr:0
+ErrPackageNum:0
+TimeSkipNum:0
+UpdateDataTimer is Active.
+Memory info:
+procs -----------memory---------- ---swap-- -----io---- --system-- -----cpu------
+ r  b   swpd   free   buff  cache   si   so    bi    bo   in   cs us sy id wa st
+ 8  0 200784  21768   3724 213780    3    4   121    94   78  223 15 14 64  7  0
+
+
+
+Time:2011-12-16 17:39:29
+CommunicateErr:0
+ErrPackageNum:0
+TimeSkipNum:0
+UpdateDataTimer is Active.
+Memory info:
+procs -----------memory---------- ---swap-- -----io---- --system-- -----cpu------
+ r  b   swpd   free   buff  cache   si   so    bi    bo   in   cs us sy id wa st
+ 2  0 200784  22016   3740 213780    3    4   121    94   78  223 15 14 64  7  0
+
+
+
+Time:2011-12-16 17:39:39
+CommunicateErr:0
+ErrPackageNum:0
+TimeSkipNum:0
+UpdateDataTimer is Active.
+Memory info:
+procs -----------memory---------- ---swap-- -----io---- --system-- -----cpu------
+ r  b   swpd   free   buff  cache   si   so    bi    bo   in   cs us sy id wa st
+ 4  0 200784  22016   3756 213784    3    4   121    94   78  223 15 14 64  7  0
+
+
+
+Time:2011-12-16 17:39:49
+CommunicateErr:0
+ErrPackageNum:0
+TimeSkipNum:0
+UpdateDataTimer is Active.
+Memory info:
+procs -----------memory---------- ---swap-- -----io---- --system-- -----cpu------
+ r  b   swpd   free   buff  cache   si   so    bi    bo   in   cs us sy id wa st
+ 6  0 200784  22016   3764 213784    3    4   121    94   78  223 15 14 64  7  0
+
+
+
+Time:2011-12-16 17:39:59
+CommunicateErr:0
+ErrPackageNum:0
+TimeSkipNum:0
+UpdateDataTimer is Active.
+Memory info:
+procs -----------memory---------- ---swap-- -----io---- --system-- -----cpu------
+ r  b   swpd   free   buff  cache   si   so    bi    bo   in   cs us sy id wa st
+ 5  0 200784  22016   3784 213784    3    4   121    94   78  223 15 14 64  7  0
+
+
+
+Time:2011-12-16 17:40:09
+CommunicateErr:0
+ErrPackageNum:0
+TimeSkipNum:0
+UpdateDataTimer is Active.
+Memory info:
+procs -----------memory---------- ---swap-- -----io---- --system-- -----cpu------
+ r  b   swpd   free   buff  cache   si   so    bi    bo   in   cs us sy id wa st
+ 9  0 200784  22016   3792 213784    3    4   121    94   78  223 15 14 64  7  0
+
+
+
+Time:2011-12-16 17:40:19
+CommunicateErr:0
+ErrPackageNum:0
+TimeSkipNum:0
+UpdateDataTimer is Active.
+Memory info:
+procs -----------memory---------- ---swap-- -----io---- --system-- -----cpu------
+ r  b   swpd   free   buff  cache   si   so    bi    bo   in   cs us sy id wa st
+ 5  0 200784  22016   3808 213784    3    4   121    94   78  223 15 14 64  7  0
+
+
+
+Time:2011-12-16 17:40:29
+CommunicateErr:0
+ErrPackageNum:0
+TimeSkipNum:0
+UpdateDataTimer is Active.
+Memory info:
+procs -----------memory---------- ---swap-- -----io---- --system-- -----cpu------
+ r  b   swpd   free   buff  cache   si   so    bi    bo   in   cs us sy id wa st
+ 3  0 200784  21892   3824 213792    3    4   121    94   78  223 15 14 64  7  0
+
+
+
+Time:2011-12-16 17:40:39
+CommunicateErr:0
+ErrPackageNum:0
+TimeSkipNum:0
+UpdateDataTimer is Active.
+Memory info:
+procs -----------memory---------- ---swap-- -----io---- --system-- -----cpu------
+ r  b   swpd   free   buff  cache   si   so    bi    bo   in   cs us sy id wa st
+ 7  0 200784  21892   3840 213792    3    4   121    94   78  223 15 14 64  7  0
+
+
+
+Time:2011-12-16 17:40:49
+CommunicateErr:0
+ErrPackageNum:0
+TimeSkipNum:0
+UpdateDataTimer is Active.
+Memory info:
+procs -----------memory---------- ---swap-- -----io---- --system-- -----cpu------
+ r  b   swpd   free   buff  cache   si   so    bi    bo   in   cs us sy id wa st
+ 1  0 200784  21752   3848 213792    3    4   121    94   78  223 15 14 64  7  0
+
+
+
+Time:2011-12-16 17:40:59
+CommunicateErr:0
+ErrPackageNum:0
+TimeSkipNum:0
+UpdateDataTimer is Active.
+Memory info:
+procs -----------memory---------- ---swap-- -----io---- --system-- -----cpu------
+ r  b   swpd   free   buff  cache   si   so    bi    bo   in   cs us sy id wa st
+ 5  0 200784  21892   3864 213792    3    4   121    94   78  223 15 14 64  7  0
+
+
+
+Time:2011-12-16 17:41:09
+CommunicateErr:0
+ErrPackageNum:0
+TimeSkipNum:0
+UpdateDataTimer is Active.
+Memory info:
+procs -----------memory---------- ---swap-- -----io---- --system-- -----cpu------
+ r  b   swpd   free   buff  cache   si   so    bi    bo   in   cs us sy id wa st
+10  0 200784  21640   3872 213792    3    4   121    94   78  223 15 14 64  7  0
+
+
+
+Time:2011-12-16 17:41:19
+CommunicateErr:0
+ErrPackageNum:0
+TimeSkipNum:0
+UpdateDataTimer is Active.
+Memory info:
+procs -----------memory---------- ---swap-- -----io---- --system-- -----cpu------
+ r  b   swpd   free   buff  cache   si   so    bi    bo   in   cs us sy id wa st
+ 9  0 200784  21036   3888 213792    3    4   121    94   77  223 15 14 64  7  0
+
+
+
+Time:2011-12-16 17:41:29
+CommunicateErr:0
+ErrPackageNum:0
+TimeSkipNum:0
+UpdateDataTimer is Active.
+Memory info:
+procs -----------memory---------- ---swap-- -----io---- --system-- -----cpu------
+ r  b   swpd   free   buff  cache   si   so    bi    bo   in   cs us sy id wa st
+ 3  0 200784  21528   3904 213792    3    4   121    94   77  223 15 14 64  7  0
+
+
+
+Time:2011-12-16 17:41:39
+CommunicateErr:0
+ErrPackageNum:0
+TimeSkipNum:0
+UpdateDataTimer is Active.
+Memory info:
+procs -----------memory---------- ---swap-- -----io---- --system-- -----cpu------
+ r  b   swpd   free   buff  cache   si   so    bi    bo   in   cs us sy id wa st
+ 6  0 200784  21528   3920 213788    3    4   121    94   77  223 15 14 64  7  0
+
+
+
+Time:2011-12-16 17:41:49
+CommunicateErr:0
+ErrPackageNum:0
+TimeSkipNum:0
+UpdateDataTimer is Active.
+Memory info:
+procs -----------memory---------- ---swap-- -----io---- --system-- -----cpu------
+ r  b   swpd   free   buff  cache   si   so    bi    bo   in   cs us sy id wa st
+ 9  0 200784  21428   3940 213784    3    4   121    94   77  223 15 14 64  7  0
+
+
+
+Time:2011-12-16 17:41:59
+CommunicateErr:0
+ErrPackageNum:0
+TimeSkipNum:0
+UpdateDataTimer is Active.
+Memory info:
+procs -----------memory---------- ---swap-- -----io---- --system-- -----cpu------
+ r  b   swpd   free   buff  cache   si   so    bi    bo   in   cs us sy id wa st
+ 7  0 200784  21428   3960 213796    3    4   121    94   77  223 15 14 64  7  0
+
+
+
+Time:2011-12-16 17:42:09
+CommunicateErr:0
+ErrPackageNum:0
+TimeSkipNum:0
+UpdateDataTimer is Active.
+Memory info:
+procs -----------memory---------- ---swap-- -----io---- --system-- -----cpu------
+ r  b   swpd   free   buff  cache   si   so    bi    bo   in   cs us sy id wa st
+ 2  0 200784  21396   3976 213796    3    4   120    94   77  223 15 14 64  7  0
+
+
+
+Time:2011-12-16 17:42:19
+CommunicateErr:0
+ErrPackageNum:0
+TimeSkipNum:0
+UpdateDataTimer is Active.
+Memory info:
+procs -----------memory---------- ---swap-- -----io---- --system-- -----cpu------
+ r  b   swpd   free   buff  cache   si   so    bi    bo   in   cs us sy id wa st
+ 4  0 200784  21148   3992 213800    3    4   120    94   77  223 15 14 64  7  0
+
+
+
+Time:2011-12-16 17:42:29
+CommunicateErr:0
+ErrPackageNum:0
+TimeSkipNum:0
+UpdateDataTimer is Active.
+Memory info:
+procs -----------memory---------- ---swap-- -----io---- --system-- -----cpu------
+ r  b   swpd   free   buff  cache   si   so    bi    bo   in   cs us sy id wa st
+ 9  0 200784  21164   4000 213804    3    4   120    94   77  223 15 14 64  7  0
+
+
+
+Time:2011-12-16 17:42:39
+CommunicateErr:0
+ErrPackageNum:0
+TimeSkipNum:0
+UpdateDataTimer is Active.
+Memory info:
+procs -----------memory---------- ---swap-- -----io---- --system-- -----cpu------
+ r  b   swpd   free   buff  cache   si   so    bi    bo   in   cs us sy id wa st
+ 5  0 200784  21272   4016 213804    3    4   120    94   77  223 15 14 64  7  0
+
+
+
+Time:2011-12-16 17:42:49
+CommunicateErr:0
+ErrPackageNum:0
+TimeSkipNum:0
+UpdateDataTimer is Active.
+Memory info:
+procs -----------memory---------- ---swap-- -----io---- --system-- -----cpu------
+ r  b   swpd   free   buff  cache   si   so    bi    bo   in   cs us sy id wa st
+ 5  0 200784  21272   4032 213804    3    4   120    94   77  223 15 14 64  7  0
+
+
+
+Time:2011-12-16 17:42:59
+CommunicateErr:0
+ErrPackageNum:0
+TimeSkipNum:0
+UpdateDataTimer is Active.
+Memory info:
+procs -----------memory---------- ---swap-- -----io---- --system-- -----cpu------
+ r  b   swpd   free   buff  cache   si   so    bi    bo   in   cs us sy id wa st
+ 2  0 200784  21028   4044 213804    3    4   120    94   77  223 15 14 64  7  0
+
+
+
+Time:2011-12-16 17:43:09
+CommunicateErr:0
+ErrPackageNum:0
+TimeSkipNum:0
+UpdateDataTimer is Active.
+Memory info:
+procs -----------memory---------- ---swap-- -----io---- --system-- -----cpu------
+ r  b   swpd   free   buff  cache   si   so    bi    bo   in   cs us sy id wa st
+ 6  0 200784  21148   4060 213804    3    4   120    94   77  223 15 14 64  7  0
+
+
+
+Time:2011-12-16 17:43:19
+CommunicateErr:0
+ErrPackageNum:0
+TimeSkipNum:0
+UpdateDataTimer is Active.
+Memory info:
+procs -----------memory---------- ---swap-- -----io---- --system-- -----cpu------
+ r  b   swpd   free   buff  cache   si   so    bi    bo   in   cs us sy id wa st
+ 4  0 200784  21016   4076 213804    3    4   120    94   77  223 15 14 64  7  0
+
+
+
+Time:2011-12-16 17:43:29
+CommunicateErr:0
+ErrPackageNum:0
+TimeSkipNum:0
+UpdateDataTimer is Active.
+Memory info:
+procs -----------memory---------- ---swap-- -----io---- --system-- -----cpu------
+ r  b   swpd   free   buff  cache   si   so    bi    bo   in   cs us sy id wa st
+ 2  0 200784  21156   4092 213808    3    4   120    94   77  223 15 14 64  7  0
+
+
+
+Time:2011-12-16 17:43:39
+CommunicateErr:0
+ErrPackageNum:0
+TimeSkipNum:0
+UpdateDataTimer is Active.
+Memory info:
+procs -----------memory---------- ---swap-- -----io---- --system-- -----cpu------
+ r  b   swpd   free   buff  cache   si   so    bi    bo   in   cs us sy id wa st
+ 1  0 200784  20888   4100 213808    3    4   120    94   77  223 15 14 64  7  0
+
+
+
+Time:2011-12-16 17:43:49
+CommunicateErr:0
+ErrPackageNum:0
+TimeSkipNum:0
+UpdateDataTimer is Active.
+Memory info:
+procs -----------memory---------- ---swap-- -----io---- --system-- -----cpu------
+ r  b   swpd   free   buff  cache   si   so    bi    bo   in   cs us sy id wa st
+ 3  0 200784  21164   4116 213808    3    4   120    94   77  223 15 14 64  7  0
+
+
+
+Time:2011-12-16 17:43:59
+CommunicateErr:0
+ErrPackageNum:0
+TimeSkipNum:0
+UpdateDataTimer is Active.
+Memory info:
+procs -----------memory---------- ---swap-- -----io---- --system-- -----cpu------
+ r  b   swpd   free   buff  cache   si   so    bi    bo   in   cs us sy id wa st
+ 6  0 200784  21380   4132 213800    3    4   120    94   77  223 15 14 64  7  0
+
+
+
+Time:2011-12-16 17:44:09
+CommunicateErr:0
+ErrPackageNum:0
+TimeSkipNum:0
+UpdateDataTimer is Active.
+Memory info:
+procs -----------memory---------- ---swap-- -----io---- --system-- -----cpu------
+ r  b   swpd   free   buff  cache   si   so    bi    bo   in   cs us sy id wa st
+ 6  0 200784  21012   4140 213812    3    4   120    94   77  223 15 14 64  7  0
+
+
+
+Time:2011-12-16 17:44:19
+CommunicateErr:0
+ErrPackageNum:0
+TimeSkipNum:0
+UpdateDataTimer is Active.
+Memory info:
+procs -----------memory---------- ---swap-- -----io---- --system-- -----cpu------
+ r  b   swpd   free   buff  cache   si   so    bi    bo   in   cs us sy id wa st
+ 4  0 200784  21016   4156 213816    3    4   120    94   77  223 15 14 64  7  0
+
+
+
+Time:2011-12-16 17:44:29
+CommunicateErr:0
+ErrPackageNum:0
+TimeSkipNum:0
+UpdateDataTimer is Active.
+Memory info:
+procs -----------memory---------- ---swap-- -----io---- --system-- -----cpu------
+ r  b   swpd   free   buff  cache   si   so    bi    bo   in   cs us sy id wa st
+ 8  0 200784  20568   4172 213816    3    4   120    94   77  223 15 14 64  7  0
+
+
+
+Time:2011-12-16 17:44:39
+CommunicateErr:0
+ErrPackageNum:0
+TimeSkipNum:0
+UpdateDataTimer is Active.
+Memory info:
+procs -----------memory---------- ---swap-- -----io---- --system-- -----cpu------
+ r  b   swpd   free   buff  cache   si   so    bi    bo   in   cs us sy id wa st
+ 1  0 200784  21272   4180 213816    3    4   120    94   77  223 15 14 64  7  0
+
+
+
+Time:2011-12-16 17:44:49
+CommunicateErr:0
+ErrPackageNum:0
+TimeSkipNum:0
+UpdateDataTimer is Active.
+Memory info:
+procs -----------memory---------- ---swap-- -----io---- --system-- -----cpu------
+ r  b   swpd   free   buff  cache   si   so    bi    bo   in   cs us sy id wa st
+ 1  0 200784  21168   4196 213816    3    4   120    94   77  224 15 14 64  7  0
+
+
+
+Time:2011-12-16 17:44:59
+CommunicateErr:0
+ErrPackageNum:0
+TimeSkipNum:0
+UpdateDataTimer is Active.
+Memory info:
+procs -----------memory---------- ---swap-- -----io---- --system-- -----cpu------
+ r  b   swpd   free   buff  cache   si   so    bi    bo   in   cs us sy id wa st
+ 9  0 200784  21800   4212 213816    3    4   120    94   77  224 15 14 64  7  0
+
+
+
+Time:2011-12-16 17:45:09
+CommunicateErr:0
+ErrPackageNum:0
+TimeSkipNum:0
+UpdateDataTimer is Active.
+Memory info:
+procs -----------memory---------- ---swap-- -----io---- --system-- -----cpu------
+ r  b   swpd   free   buff  cache   si   so    bi    bo   in   cs us sy id wa st
+ 4  1 200784  21396   4220 213816    3    4   120    94   77  224 15 14 64  7  0
+
+
+
+Time:2011-12-16 17:45:19
+CommunicateErr:0
+ErrPackageNum:0
+TimeSkipNum:0
+UpdateDataTimer is Active.
+Memory info:
+procs -----------memory---------- ---swap-- -----io---- --system-- -----cpu------
+ r  b   swpd   free   buff  cache   si   so    bi    bo   in   cs us sy id wa st
+ 5  0 200784  20348   4244 213900    3    4   120    94   77  224 15 14 64  7  0
+
+
+
+Time:2011-12-16 17:45:29
+CommunicateErr:0
+ErrPackageNum:0
+TimeSkipNum:0
+UpdateDataTimer is Active.
+Memory info:
+procs -----------memory---------- ---swap-- -----io---- --system-- -----cpu------
+ r  b   swpd   free   buff  cache   si   so    bi    bo   in   cs us sy id wa st
+ 7  0 200784  20492   4260 213900    3    4   120    94   77  224 15 14 64  7  0
+
+
+
+Time:2011-12-16 17:45:39
+CommunicateErr:0
+ErrPackageNum:0
+TimeSkipNum:0
+UpdateDataTimer is Active.
+Memory info:
+procs -----------memory---------- ---swap-- -----io---- --system-- -----cpu------
+ r  b   swpd   free   buff  cache   si   so    bi    bo   in   cs us sy id wa st
+ 1  0 200784  20724   4276 213900    3    4   120    94   77  224 15 14 64  7  0
+
+
+
+Time:2011-12-16 17:45:49
+CommunicateErr:0
+ErrPackageNum:0
+TimeSkipNum:0
+UpdateDataTimer is Active.
+Memory info:
+procs -----------memory---------- ---swap-- -----io---- --system-- -----cpu------
+ r  b   swpd   free   buff  cache   si   so    bi    bo   in   cs us sy id wa st
+ 7  1 200784  16400   4432 215364    3    4   120    94   77  224 15 14 64  7  0
+
+
+
+Time:2011-12-16 17:45:59
+CommunicateErr:0
+ErrPackageNum:0
+TimeSkipNum:0
+UpdateDataTimer is Active.
+Memory info:
+procs -----------memory---------- ---swap-- -----io---- --system-- -----cpu------
+ r  b   swpd   free   buff  cache   si   so    bi    bo   in   cs us sy id wa st
+ 1  3 200784   6560   3512 160228    3    4   120    94   77  224 15 14 64  7  0
+
+
+
